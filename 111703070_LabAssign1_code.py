@@ -219,6 +219,96 @@ emojis = [":@", ":-@",
 
 timezones = [{'value': 'Dateline Standard Time', 'abbr': 'DST', 'utc': ['Etc/GMT+12']}, {'value': 'UTC-11', 'abbr': 'U', 'utc': ['Etc/GMT+11', 'Pacific/Midway', 'Pacific/Niue', 'Pacific/Pago_Pago']}, {'value': 'Hawaiian Standard Time', 'abbr': 'HST', 'utc': ['Etc/GMT+10', 'Pacific/Honolulu', 'Pacific/Johnston', 'Pacific/Rarotonga', 'Pacific/Tahiti']}, {'value': 'Alaskan Standard Time', 'abbr': 'AKDT', 'utc': ['America/Anchorage', 'America/Juneau', 'America/Nome', 'America/Sitka', 'America/Yakutat']}, {'value': 'Pacific Standard Time (Mexico)', 'abbr': 'PDT', 'utc': ['America/Santa_Isabel']}, {'value': 'Pacific Daylight Time', 'abbr': 'PDT', 'utc': ['America/Dawson', 'America/Los_Angeles', 'America/Tijuana', 'America/Vancouver', 'America/Whitehorse']}, {'value': 'Pacific Standard Time', 'abbr': 'PST', 'utc': ['America/Dawson', 'America/Los_Angeles', 'America/Tijuana', 'America/Vancouver', 'America/Whitehorse', 'PST8PDT']}, {'value': 'US Mountain Standard Time', 'abbr': 'UMST', 'utc': ['America/Creston', 'America/Dawson_Creek', 'America/Hermosillo', 'America/Phoenix', 'Etc/GMT+7']}, {'value': 'Mountain Standard Time (Mexico)', 'abbr': 'MDT', 'utc': ['America/Chihuahua', 'America/Mazatlan']}, {'value': 'Mountain Standard Time', 'abbr': 'MDT', 'utc': ['America/Boise', 'America/Cambridge_Bay', 'America/Denver', 'America/Edmonton', 'America/Inuvik', 'America/Ojinaga', 'America/Yellowknife', 'MST7MDT']}, {'value': 'Central America Standard Time', 'abbr': 'CAST', 'utc': ['America/Belize', 'America/Costa_Rica', 'America/El_Salvador', 'America/Guatemala', 'America/Managua', 'America/Tegucigalpa', 'Etc/GMT+6', 'Pacific/Galapagos']}, {'value': 'Central Standard Time', 'abbr': 'CDT', 'utc': ['America/Chicago', 'America/Indiana/Knox', 'America/Indiana/Tell_City', 'America/Matamoros', 'America/Menominee', 'America/North_Dakota/Beulah', 'America/North_Dakota/Center', 'America/North_Dakota/New_Salem', 'America/Rainy_River', 'America/Rankin_Inlet', 'America/Resolute', 'America/Winnipeg', 'CST6CDT']}, {'value': 'Central Standard Time (Mexico)', 'abbr': 'CDT', 'utc': ['America/Bahia_Banderas', 'America/Cancun', 'America/Merida', 'America/Mexico_City', 'America/Monterrey']}, {'value': 'Canada Central Standard Time', 'abbr': 'CCST', 'utc': ['America/Regina', 'America/Swift_Current']}, {'value': 'SA Pacific Standard Time', 'abbr': 'SPST', 'utc': ['America/Bogota', 'America/Cayman', 'America/Coral_Harbour', 'America/Eirunepe', 'America/Guayaquil', 'America/Jamaica', 'America/Lima', 'America/Panama', 'America/Rio_Branco', 'Etc/GMT+5']}, {'value': 'Eastern Standard Time', 'abbr': 'EDT', 'utc': ['America/Detroit', 'America/Havana', 'America/Indiana/Petersburg', 'America/Indiana/Vincennes', 'America/Indiana/Winamac', 'America/Iqaluit', 'America/Kentucky/Monticello', 'America/Louisville', 'America/Montreal', 'America/Nassau', 'America/New_York', 'America/Nipigon', 'America/Pangnirtung', 'America/Port-au-Prince', 'America/Thunder_Bay', 'America/Toronto', 'EST5EDT']}, {'value': 'US Eastern Standard Time', 'abbr': 'UEDT', 'utc': ['America/Indiana/Marengo', 'America/Indiana/Vevay', 'America/Indianapolis']}, {'value': 'Venezuela Standard Time', 'abbr': 'VST', 'utc': ['America/Caracas']}, {'value': 'Paraguay Standard Time', 'abbr': 'PYT', 'utc': ['America/Asuncion']}, {'value': 'Atlantic Standard Time', 'abbr': 'ADT', 'utc': ['America/Glace_Bay', 'America/Goose_Bay', 'America/Halifax', 'America/Moncton', 'America/Thule', 'Atlantic/Bermuda']}, {'value': 'Central Brazilian Standard Time', 'abbr': 'CBST', 'utc': ['America/Campo_Grande', 'America/Cuiaba']}, {'value': 'SA Western Standard Time', 'abbr': 'SWST', 'utc': ['America/Anguilla', 'America/Antigua', 'America/Aruba', 'America/Barbados', 'America/Blanc-Sablon', 'America/Boa_Vista', 'America/Curacao', 'America/Dominica', 'America/Grand_Turk', 'America/Grenada', 'America/Guadeloupe', 'America/Guyana', 'America/Kralendijk', 'America/La_Paz', 'America/Lower_Princes', 'America/Manaus', 'America/Marigot', 'America/Martinique', 'America/Montserrat', 'America/Port_of_Spain', 'America/Porto_Velho', 'America/Puerto_Rico', 'America/Santo_Domingo', 'America/St_Barthelemy', 'America/St_Kitts', 'America/St_Lucia', 'America/St_Thomas', 'America/St_Vincent', 'America/Tortola', 'Etc/GMT+4']}, {'value': 'Pacific SA Standard Time', 'abbr': 'PSST', 'utc': ['America/Santiago', 'Antarctica/Palmer']}, {'value': 'Newfoundland Standard Time', 'abbr': 'NDT', 'utc': ['America/St_Johns']}, {'value': 'E. South America Standard Time', 'abbr': 'ESAST', 'utc': ['America/Sao_Paulo']}, {'value': 'Argentina Standard Time', 'abbr': 'AST', 'utc': ['America/Argentina/La_Rioja', 'America/Argentina/Rio_Gallegos', 'America/Argentina/Salta', 'America/Argentina/San_Juan', 'America/Argentina/San_Luis', 'America/Argentina/Tucuman', 'America/Argentina/Ushuaia', 'America/Buenos_Aires', 'America/Catamarca', 'America/Cordoba', 'America/Jujuy', 'America/Mendoza']}, {'value': 'SA Eastern Standard Time', 'abbr': 'SEST', 'utc': ['America/Araguaina', 'America/Belem', 'America/Cayenne', 'America/Fortaleza', 'America/Maceio', 'America/Paramaribo', 'America/Recife', 'America/Santarem', 'Antarctica/Rothera', 'Atlantic/Stanley', 'Etc/GMT+3']}, {'value': 'Greenland Standard Time', 'abbr': 'GDT', 'utc': ['America/Godthab']}, {'value': 'Montevideo Standard Time', 'abbr': 'MST', 'utc': ['America/Montevideo']}, {'value': 'Bahia Standard Time', 'abbr': 'BST', 'utc': ['America/Bahia']}, {'value': 'UTC-02', 'abbr': 'U', 'utc': ['America/Noronha', 'Atlantic/South_Georgia', 'Etc/GMT+2']}, {'value': 'Mid-Atlantic Standard Time', 'abbr': 'MDT', 'utc': []}, {'value': 'Azores Standard Time', 'abbr': 'ADT', 'utc': ['America/Scoresbysund', 'Atlantic/Azores']}, {'value': 'Cape Verde Standard Time', 'abbr': 'CVST', 'utc': ['Atlantic/Cape_Verde', 'Etc/GMT+1']}, {'value': 'Morocco Standard Time', 'abbr': 'MDT', 'utc': ['Africa/Casablanca', 'Africa/El_Aaiun']}, {'value': 'UTC', 'abbr': 'UTC', 'utc': ['America/Danmarkshavn', 'Etc/GMT']}, {'value': 'GMT Standard Time', 'abbr': 'GMT', 'utc': ['Europe/Isle_of_Man', 'Europe/Guernsey', 'Europe/Jersey', 'Europe/London']}, {'value': 'British Summer Time', 'abbr': 'BST', 'utc': ['Europe/Isle_of_Man', 'Europe/Guernsey', 'Europe/Jersey', 'Europe/London']}, {'value': 'GMT Standard Time', 'abbr': 'GDT', 'utc': ['Atlantic/Canary', 'Atlantic/Faeroe', 'Atlantic/Madeira', 'Europe/Dublin', 'Europe/Lisbon']}, {'value': 'Greenwich Standard Time', 'abbr': 'GST', 'utc': ['Africa/Abidjan', 'Africa/Accra', 'Africa/Bamako', 'Africa/Banjul', 'Africa/Bissau', 'Africa/Conakry', 'Africa/Dakar', 'Africa/Freetown', 'Africa/Lome', 'Africa/Monrovia', 'Africa/Nouakchott', 'Africa/Ouagadougou', 'Africa/Sao_Tome', 'Atlantic/Reykjavik', 'Atlantic/St_Helena']}, {'value': 'W. Europe Standard Time', 'abbr': 'WEDT', 'utc': ['Arctic/Longyearbyen', 'Europe/Amsterdam', 'Europe/Andorra', 'Europe/Berlin', 'Europe/Busingen', 'Europe/Gibraltar', 'Europe/Luxembourg', 'Europe/Malta', 'Europe/Monaco', 'Europe/Oslo', 'Europe/Rome', 'Europe/San_Marino', 'Europe/Stockholm', 'Europe/Vaduz', 'Europe/Vatican', 'Europe/Vienna', 'Europe/Zurich']}, {'value': 'Central Europe Standard Time', 'abbr': 'CEDT', 'utc': ['Europe/Belgrade', 'Europe/Bratislava', 'Europe/Budapest', 'Europe/Ljubljana', 'Europe/Podgorica', 'Europe/Prague', 'Europe/Tirane']}, {'value': 'Romance Standard Time', 'abbr': 'RDT', 'utc': ['Africa/Ceuta', 'Europe/Brussels', 'Europe/Copenhagen', 'Europe/Madrid', 'Europe/Paris']}, {'value': 'Central European Standard Time', 'abbr': 'CEDT', 'utc': ['Europe/Sarajevo', 'Europe/Skopje', 'Europe/Warsaw', 'Europe/Zagreb']}, {'value': 'W. Central Africa Standard Time', 'abbr': 'WCAST', 'utc': ['Africa/Algiers', 'Africa/Bangui', 'Africa/Brazzaville', 'Africa/Douala', 'Africa/Kinshasa', 'Africa/Lagos', 'Africa/Libreville', 'Africa/Luanda', 'Africa/Malabo', 'Africa/Ndjamena', 'Africa/Niamey', 'Africa/Porto-Novo', 'Africa/Tunis', 'Etc/GMT-1']}, {'value': 'Namibia Standard Time', 'abbr': 'NST', 'utc': ['Africa/Windhoek']}, {'value': 'GTB Standard Time', 'abbr': 'GDT', 'utc': ['Asia/Nicosia', 'Europe/Athens', 'Europe/Bucharest', 'Europe/Chisinau']}, {'value': 'Middle East Standard Time', 'abbr': 'MEDT', 'utc': ['Asia/Beirut']}, {'value': 'Egypt Standard Time', 'abbr': 'EST', 'utc': ['Africa/Cairo']}, {'value': 'Syria Standard Time', 'abbr': 'SDT', 'utc': ['Asia/Damascus']}, {'value': 'E. Europe Standard Time', 'abbr': 'EEDT', 'utc': ['Asia/Nicosia', 'Europe/Athens', 'Europe/Bucharest', 'Europe/Chisinau', 'Europe/Helsinki', 'Europe/Kiev', 'Europe/Mariehamn', 'Europe/Nicosia', 'Europe/Riga', 'Europe/Sofia', 'Europe/Tallinn', 'Europe/Uzhgorod', 'Europe/Vilnius', 'Europe/Zaporozhye']}, {'value': 'South Africa Standard Time', 'abbr': 'SAST', 'utc': ['Africa/Blantyre', 'Africa/Bujumbura', 'Africa/Gaborone', 'Africa/Harare', 'Africa/Johannesburg', 'Africa/Kigali', 'Africa/Lubumbashi', 'Africa/Lusaka', 'Africa/Maputo', 'Africa/Maseru', 'Africa/Mbabane', 'Etc/GMT-2']}, {'value': 'FLE Standard Time', 'abbr': 'FDT', 'utc': ['Europe/Helsinki', 'Europe/Kiev', 'Europe/Mariehamn', 'Europe/Riga', 'Europe/Sofia', 'Europe/Tallinn', 'Europe/Uzhgorod', 'Europe/Vilnius', 'Europe/Zaporozhye']}, {'value': 'Turkey Standard Time', 'abbr': 'TDT', 'utc': ['Europe/Istanbul']}, {'value': 'Israel Standard Time', 'abbr': 'JDT', 'utc': ['Asia/Jerusalem']}, {'value': 'Libya Standard Time', 'abbr': 'LST', 'utc': ['Africa/Tripoli']}, {'value': 'Jordan Standard Time', 'abbr': 'JST', 'utc': ['Asia/Amman']}, {'value': 'Arabic Standard Time', 'abbr': 'AST', 'utc': ['Asia/Baghdad']}, {'value': 'Kaliningrad Standard Time', 'abbr': 'KST', 'utc': ['Europe/Kaliningrad']}, {'value': 'Arab Standard Time', 'abbr': 'AST', 'utc': ['Asia/Aden', 'Asia/Bahrain', 'Asia/Kuwait', 'Asia/Qatar', 'Asia/Riyadh']}, {'value': 'E. Africa Standard Time', 'abbr': 'EAST', 'utc': ['Africa/Addis_Ababa', 'Africa/Asmera', 'Africa/Dar_es_Salaam', 'Africa/Djibouti', 'Africa/Juba', 'Africa/Kampala', 'Africa/Khartoum', 'Africa/Mogadishu', 'Africa/Nairobi', 'Antarctica/Syowa', 'Etc/GMT-3', 'Indian/Antananarivo', 'Indian/Comoro', 'Indian/Mayotte']}, {'value': 'Moscow Standard Time', 'abbr': 'MSK', 'utc': ['Europe/Kirov', 'Europe/Moscow', 'Europe/Simferopol', 'Europe/Volgograd', 'Europe/Minsk']}, {'value': 'Samara Time', 'abbr': 'SAMT', 'utc': ['Europe/Astrakhan', 'Europe/Samara', 'Europe/Ulyanovsk']}, {'value': 'Iran Standard Time', 'abbr': 'IDT', 'utc': ['Asia/Tehran']}, {'value': 'Arabian Standard Time', 'abbr': 'AST', 'utc': ['Asia/Dubai', 'Asia/Muscat', 'Etc/GMT-4']}, {'value': 'Azerbaijan Standard Time', 'abbr': 'ADT', 'utc': ['Asia/Baku']}, {'value': 'Mauritius Standard Time', 'abbr': 'MST', 'utc': ['Indian/Mahe', 'Indian/Mauritius', 'Indian/Reunion']}, {'value': 'Georgian Standard Time', 'abbr': 'GET', 'utc': ['Asia/Tbilisi']}, {'value': 'Caucasus Standard Time', 'abbr': 'CST', 'utc': ['Asia/Yerevan']}, {'value': 'Afghanistan Standard Time', 'abbr': 'AST', 'utc': ['Asia/Kabul']}, {'value': 'West Asia Standard Time', 'abbr': 'WAST', 'utc': ['Antarctica/Mawson', 'Asia/Aqtau', 'Asia/Aqtobe', 'Asia/Ashgabat', 'Asia/Dushanbe', 'Asia/Oral', 'Asia/Samarkand', 'Asia/Tashkent', 'Etc/GMT-5', 'Indian/Kerguelen', 'Indian/Maldives']}, {'value': 'Yekaterinburg Time', 'abbr': 'YEKT', 'utc': ['Asia/Yekaterinburg']}, {'value': 'Pakistan Standard Time', 'abbr': 'PKT', 'utc': ['Asia/Karachi']}, {'value': 'Indian Standard Time', 'abbr': 'IST', 'utc': ['Asia/Kolkata']}, {'value': 'Sri Lanka Standard Time', 'abbr': 'SLST', 'utc': ['Asia/Colombo']}, {'value': 'Nepal Standard Time', 'abbr': 'NST', 'utc': ['Asia/Kathmandu']}, {'value': 'Central Asia Standard Time', 'abbr': 'CAST', 'utc': ['Antarctica/Vostok', 'Asia/Almaty', 'Asia/Bishkek', 'Asia/Qyzylorda', 'Asia/Urumqi', 'Etc/GMT-6', 'Indian/Chagos']}, {'value': 'Bangladesh Standard Time', 'abbr': 'BST', 'utc': ['Asia/Dhaka', 'Asia/Thimphu']}, {'value': 'Myanmar Standard Time', 'abbr': 'MST', 'utc': ['Asia/Rangoon', 'Indian/Cocos']}, {'value': 'SE Asia Standard Time', 'abbr': 'SAST', 'utc': ['Antarctica/Davis', 'Asia/Bangkok', 'Asia/Hovd', 'Asia/Jakarta', 'Asia/Phnom_Penh', 'Asia/Pontianak', 'Asia/Saigon', 'Asia/Vientiane', 'Etc/GMT-7', 'Indian/Christmas']}, {'value': 'N. Central Asia Standard Time', 'abbr': 'NCAST', 'utc': ['Asia/Novokuznetsk', 'Asia/Novosibirsk', 'Asia/Omsk']}, {'value': 'China Standard Time', 'abbr': 'CST', 'utc': ['Asia/Hong_Kong', 'Asia/Macau', 'Asia/Shanghai']}, {'value': 'North Asia Standard Time', 'abbr': 'NAST', 'utc': ['Asia/Krasnoyarsk']}, {'value': 'Singapore Standard Time', 'abbr': 'MPST', 'utc': ['Asia/Brunei', 'Asia/Kuala_Lumpur', 'Asia/Kuching', 'Asia/Makassar', 'Asia/Manila', 'Asia/Singapore', 'Etc/GMT-8']}, {'value': 'W. Australia Standard Time', 'abbr': 'WAST', 'utc': ['Antarctica/Casey', 'Australia/Perth']}, {'value': 'Taipei Standard Time', 'abbr': 'TST', 'utc': ['Asia/Taipei']}, {'value': 'Ulaanbaatar Standard Time', 'abbr': 'UST', 'utc': ['Asia/Choibalsan', 'Asia/Ulaanbaatar']}, {'value': 'North Asia East Standard Time', 'abbr': 'NAEST', 'utc': ['Asia/Irkutsk']}, {'value': 'Japan Standard Time', 'abbr': 'JST', 'utc': ['Asia/Dili', 'Asia/Jayapura', 'Asia/Tokyo', 'Etc/GMT-9', 'Pacific/Palau']}, {'value': 'Korea Standard Time', 'abbr': 'KST', 'utc': ['Asia/Pyongyang', 'Asia/Seoul']}, {'value': 'Cen. Australia Standard Time', 'abbr': 'CAST', 'utc': ['Australia/Adelaide', 'Australia/Broken_Hill']}, {'value': 'AUS Central Standard Time', 'abbr': 'ACST', 'utc': ['Australia/Darwin']}, {'value': 'E. Australia Standard Time', 'abbr': 'EAST', 'utc': ['Australia/Brisbane', 'Australia/Lindeman']}, {'value': 'AUS Eastern Standard Time', 'abbr': 'AEST', 'utc': ['Australia/Melbourne', 'Australia/Sydney']}, {'value': 'West Pacific Standard Time', 'abbr': 'WPST', 'utc': ['Antarctica/DumontDUrville', 'Etc/GMT-10', 'Pacific/Guam', 'Pacific/Port_Moresby', 'Pacific/Saipan', 'Pacific/Truk']}, {'value': 'Tasmania Standard Time', 'abbr': 'TST', 'utc': ['Australia/Currie', 'Australia/Hobart']}, {'value': 'Yakutsk Standard Time', 'abbr': 'YST', 'utc': ['Asia/Chita', 'Asia/Khandyga', 'Asia/Yakutsk']}, {'value': 'Central Pacific Standard Time', 'abbr': 'CPST', 'utc': ['Antarctica/Macquarie', 'Etc/GMT-11', 'Pacific/Efate', 'Pacific/Guadalcanal', 'Pacific/Kosrae', 'Pacific/Noumea', 'Pacific/Ponape']}, {'value': 'Vladivostok Standard Time', 'abbr': 'VST', 'utc': ['Asia/Sakhalin', 'Asia/Ust-Nera', 'Asia/Vladivostok']}, {'value': 'New Zealand Standard Time', 'abbr': 'NZST', 'utc': ['Antarctica/McMurdo', 'Pacific/Auckland']}, {'value': 'UTC+12', 'abbr': 'U', 'utc': ['Etc/GMT-12', 'Pacific/Funafuti', 'Pacific/Kwajalein', 'Pacific/Majuro', 'Pacific/Nauru', 'Pacific/Tarawa', 'Pacific/Wake', 'Pacific/Wallis']}, {'value': 'Fiji Standard Time', 'abbr': 'FST', 'utc': ['Pacific/Fiji']}, {'value': 'Magadan Standard Time', 'abbr': 'MST', 'utc': ['Asia/Anadyr', 'Asia/Kamchatka', 'Asia/Magadan', 'Asia/Srednekolymsk']}, {'value': 'Kamchatka Standard Time', 'abbr': 'KDT', 'utc': ['Asia/Kamchatka']}, {'value': 'Tonga Standard Time', 'abbr': 'TST', 'utc': ['Etc/GMT-13', 'Pacific/Enderbury', 'Pacific/Fakaofo', 'Pacific/Tongatapu']}, {'value': 'Samoa Standard Time', 'abbr': 'SST', 'utc': ['Pacific/Apia']}]
 
+acronyms = [
+    "Q&A",
+    "VIP",
+    "3D",
+    "ID",
+    "IQ",
+    "RSVP",
+    "AKA",
+    "DIY",
+    "TGIF",
+    "RIP",
+    "BYOB",
+    "KIT",
+    "POV",
+    "MO",
+    "AD",
+    "BC",
+    "ASAP",
+    "FYI",
+    "TBA",
+    "TBD",
+    "EOB",
+    "YTD",
+    "ROI",
+    "OT",
+    "NDA",
+    "B2B",
+    "B2C",
+    "HR",
+    "PR",
+    "CFO",
+    "CTO",
+    "VP",
+    "MBA",
+    "CPA",
+    "LOL",
+    "LMAO",
+    "OMG",
+    "WTF",
+    "NSFW",
+    "TBH",
+    "IMHO",
+    "BRB",
+    "TTYL",
+    "TMI",
+    "IRL",
+    "BTW",
+    "ATM",
+    "BFF",
+    "PC",
+    "USB",
+    "OS",
+    "TV",
+    "AC",
+    "ATM",
+    "CD",
+    "DVD",
+    "UPC",
+    "VR",
+    "MD",
+    "OB",
+    "GYN",
+    "EMT",
+    "CPR",
+    "STD",
+    "HIV",
+    "AIDS",
+    "ADD",
+    "OCD",
+    "AA",
+    "PETA",
+    "IBM",
+    "UPS",
+    "GE",
+    "GM",
+    "BMW",
+    "ABC",
+    "NBC",
+    "CBS",
+    "HBO",
+    "MTV",
+    "ESPN",
+    "BBC",
+    "MLB",
+    "JFK",
+    "MLK",
+    "MJ",
+    "ETC"
+    ]
+
 #indian standard time
 def isTimezoneName(name):
     for timezone in timezones:
@@ -257,6 +347,12 @@ def isNumberinWord(word):
             return True
     return False
 
+def isAcronym(word):
+    for acronym in acronyms:
+        if(acronym == word or acronym.lower() == word):
+            return True
+    return False
+
 def isDate(word):
     prefix = "CF:D:"
     formatList = [
@@ -269,16 +365,23 @@ def isDate(word):
                   '%y.%m.%d', '%Y.%m.%d',
                   '%y/%m/%d', '%Y/%m/%d',
                   '%y-%m-%d', '%Y-%m-%d',
+                  '%Y'
                  ]
     
     for fmt in formatList:
         try:
             val = datetime.datetime.strptime(word,fmt)
             date = str(val).split()
-            return str(prefix+date[0])
+            if(fmt != "%Y"):
+                return str(prefix+date[0])
+            else:
+                year = date[0].split("-")[0]
+                return str(prefix+year)
         except ValueError:
             pass
     return None
+
+isDate("20-10-30.")
 
 #checks if it is a time
 def isTimeFormat(word):
@@ -367,6 +470,12 @@ def isEmoji(word):
         if(word == emoji):
             return True
     return False
+
+def isNumberDecimalOrComma(word):
+    if(re.findall("^[0-9]+(,[0-9]+)+$", word) or re.findall("^[0-9]+(\.[0-9]+)$", word)):
+        return True
+    else:
+        return False
     
 def containsClitic(word):
     tempList = []
@@ -586,23 +695,47 @@ for tweet in tweets :
             words[wordIndex:wordIndex] = tempList
             wordIndex += len(tempList) - 1
         wordIndex += 1
+        
      
     #PUNCTUATION
     wordIndex = 0
     while wordIndex < len(words) :
-        if(isUrl(words[wordIndex]) == False and isEmoji(words[wordIndex]) == False and isEmoji(words[wordIndex].lower()) == False and isEmoji(words[wordIndex][:-1]) == False and isEmoji(words[wordIndex][:-1].lower()) == False):
-            tempList = containsPunc(words[wordIndex])
-            if(len(tempList) > 1):
-                words.pop(wordIndex)
-                words[wordIndex:wordIndex] = tempList
-                wordIndex += len(tempList) - 1
+        if(isDate(words[wordIndex]) != None and (words[wordIndex].find("-") != -1 or words[wordIndex].find("/") != -1 or words[wordIndex].find(".") != -1)):
+            words[wordIndex] = isDate(words[wordIndex])
+        elif(isDate(words[wordIndex][:-1]) != None and (words[wordIndex][:-1].find("-") != -1 or words[wordIndex][:-1].find("/") != -1 or words[wordIndex][:-1].find(".") != -1)):
+            punc = words[wordIndex][-1]
+            words[wordIndex] = isDate(words[wordIndex][:-1])
+            words.insert(wordIndex+1, punc)
+        else:
+            if(isNumberDecimalOrComma(words[wordIndex][:-1]) == False and isNumberDecimalOrComma(words[wordIndex]) == False and isUrl(words[wordIndex]) == False and isEmoji(words[wordIndex]) == False and isEmoji(words[wordIndex].lower()) == False and isEmoji(words[wordIndex][:-1]) == False and isEmoji(words[wordIndex][:-1].lower()) == False):
+                tempList = containsPunc(words[wordIndex])
+                if(len(tempList) > 1):
+                    words.pop(wordIndex)
+                    words[wordIndex:wordIndex] = tempList
+                    wordIndex += len(tempList) - 1
+            if(isNumberDecimalOrComma(words[wordIndex][:-1]) == True):
+                punc = words[wordIndex][-1]
+                if(re.findall("[\.!?:,;\'\"\)\(\]-]$", punc)):
+                    words[wordIndex] = words[wordIndex][:-1]
+                    words.insert(wordIndex + 1, punc)
         wordIndex += 1
         
+    #ACRONYM
+    if(isAcronym(words[len(words)-2]) and words[len(words)-1] == "."):
+        t = words[len(words)-2]+"."
+        words.pop(len(words)-2)
+        words.insert(len(words)-1, t)
+    elif(isAcronym(words[len(words)-1])):
+        t = words[len(words)-1]+"."
+        words.pop(len(words)-1)
+        words.append(t)
+        words.append(".")
     
     #DATE
     wordIndex = 0
     while wordIndex < len(words) :
         finalDate = ""
+        #july'2013
         if(wordIndex+1 < len(words) and words[wordIndex+1] == "'" and words[wordIndex] in months):
             month = months[words[wordIndex]]
             finalDate += month
@@ -616,6 +749,7 @@ for tweet in tweets :
             words.pop(wordIndex)
             words.pop(wordIndex)
             words.insert(wordIndex, date)
+        #July
         elif(words[wordIndex] in months):
             month = months[words[wordIndex]]
             if(wordIndex-1 >= 0 and isNumberinWord(words[wordIndex-1]) and isFinalDate(words[wordIndex-1]) == False):
@@ -624,7 +758,7 @@ for tweet in tweets :
                         finalDate += letter
                 finalDate += "-" + month + "-"
                 if(wordIndex+1 < len(words)):
-                    if(re.findall("[\.!?:,;\'\"\)\(\]-]", words[wordIndex+1])):
+                    if(re.findall("[\.!?:,;\'\"-]", words[wordIndex+1])):
                         if(wordIndex+2 < len(words)):
                             for letter in words[wordIndex+2]:
                                 if(letter.isdigit()):
@@ -675,13 +809,26 @@ for tweet in tweets :
                 finalDate = month
                 date = convertDate(finalDate)
                 words[wordIndex] = date
+        else:
+            if(isDate(words[wordIndex]) != None):
+                date = isDate(words[wordIndex])
+                words[wordIndex] = date
+                
         wordIndex += 1
+        
+    #&AMP
+    wordIndex = 0
+    while(wordIndex < len(words)):
+        if(words[wordIndex] == "&amp" or words[wordIndex][:-1] == "&amp"):
+            words[wordIndex] = "&"
+        wordIndex += 1
+    
     
     
     tokens.append(words)
 #print(tokens)
 
-outputFile = "outputSpyder.txt"
+outputFile = "output.txt"
 
 try:
     with open(outputFile, 'w') as fp:

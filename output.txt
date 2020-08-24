@@ -1,5 +1,5 @@
-Union Home Minister @AmitShah admitted to AIIMS in Delhi. He had recovered from Covid-19 recently. I'm good. :) etc.
-27
+Union Home Minister @AmitShah admitted to AIIMS in Delhi on 8/12/20. He had recovered from Covid-19 recently. He's going to be okay :)
+28
 Union
 Home
 Minister
@@ -9,6 +9,8 @@ to
 AIIMS
 in
 Delhi
+on
+CF:D:2020-12-08
 .
 He
 had
@@ -19,16 +21,15 @@ Covid
 19
 recently
 .
-I
-am
-good
-.
-:
-)
-etc
-.
-Himachal Pradesh University postpones its examinations scheduled for tomorrow 15th August 2020. (ANI)
-14
+He
+is
+going
+to
+be
+okay
+:)
+Himachal Pradesh University postpones its examinations scheduled for tomorrow 15th August 2020. (ANI) :(
+15
 Himachal
 Pradesh
 University
@@ -43,43 +44,9 @@ CF:D:2020-08-15
 (
 ANI
 )
-9th May, 2020.June July'2013 you August 2015 are 2nd November 2020 how 25 December 22 abc  
-11
-CF:D:2020-05-09
-.
-CF:D:????-06
-CF:D:2013-07
-you
-CF:D:2015-08
-are
-CF:D:2020-11-02
-how
-CF:D:2022-12-25
-abc
-"How are you friend 'i am good' ok".
-13
-"
-How
-are
-you
-friend
-'
-i
-am
-good
-'
-ok
-"
-.
-'These are apples'
-5
-'
-These
-are
-apples
-'s
-Hi! Jones' golf clubs are for sale at 10 O'Clock IST.
-12
+:(
+Hi! Jones' golf clubs are for sale in May at 9:12:12 CST. He has clubs, golf balls etc.
+22
 Hi
 !
 Jones
@@ -89,11 +56,21 @@ clubs
 are
 for
 sale
+in
+CF:D:????-05
 at
-CF:T:10:00:IST
+CF:T:09:12:CST
 .
-I think I will directly meet you by 7 PM IST. or 10:00. or 9:12:12 CST. 2 PM Indian Standard Time. or 8:00 Indian Standard Time.
-21
+He
+has
+clubs
+,
+golf
+balls
+etc.
+.
+I think I will directly meet you by 10:00 or  2 pm Indian Standard Time or 3:30 Indian Standard Time.
+14
 I
 think
 I
@@ -102,25 +79,48 @@ directly
 meet
 you
 by
-CF:T:19:00:IST
-.
-or
 CF:T:10:00
-.
 or
-CF:T:09:12:CST
-.
 CF:T:14:00:IST
-.
 or
-CF:T:08:00:IST
+CF:T:03:30:IST
 .
-It may be India Calling for Samsung's smartphone business on July'2013 https://bit.ly/3iGttvI 
-13
+Y'all could've said this directly to her. She's not that strict. I've spoken to her many times in the past. 
+27
+You
+all
+could
+have
+said
+this
+directly
+to
+her
+.
+She
+is
+not
+that
+strict
+.
+I
+have
+spoken
+to
+her
+many
+times
+in
+the
+past
+.
+It may be India's Calling for Samsung's smartphone business on July'2013 https://bit.ly/3iGttvI 
+14
 It
 may
 be
 India
+'s
 Calling
 for
 Samsung
@@ -130,9 +130,13 @@ business
 on
 CF:D:2013-07
 https://bit.ly/3iGttvI
-Malaysia detects new #coronavirus strain that is 10 times more infectious READ: http://toi.in/NvTLra/a24gk
-14
+Malaysia on 9th May, 2020 at 7 pm IST detects new #coronavirus strain that is 10 times more infectious READ: http://toi.in/NvTLra/a24gk
+18
 Malaysia
+on
+CF:D:2020-05-09
+at
+CF:T:19:00:IST
 detects
 new
 #coronavirus
@@ -191,13 +195,15 @@ it
 said
 .
 http://toi.in/NSR2Db/a24gk
-Canada: Niagara Falls illuminated in colours of Indian national flag. #IndiaIndependenceDay Photos Credit: Consulate General of India in Toronto, Canada (@IndiainToronto)
-27
+Canada: Niagara Falls illuminated at 10 o'clock Indian Standard Time in colours of Indian national flag. #IndiaIndependenceDay Photos Credit: Consulate General of India in Toronto, Canada (@IndiainToronto)
+29
 Canada
 :
 Niagara
 Falls
 illuminated
+at
+CF:T:10:00:IST
 in
 colours
 of
@@ -220,8 +226,8 @@ Canada
 (
 @IndiainToronto
 )
-If elected, will stand with India in confronting threats facing it: Biden http://toi.in/kdZ9xa/a24gk via @TOIWorld
-17
+If elected, will stand with India in confronting threats facing it: Biden http://toi.in/kdZ9xa/a24gk via @TOIWorld on 20 August 2020 at 10:20 GMT.
+22
 If
 elected
 ,
@@ -239,6 +245,11 @@ Biden
 http://toi.in/kdZ9xa/a24gk
 via
 @TOIWorld
+on
+CF:D:2020-08-20
+at
+CF:T:10:20:GMT
+.
 United Arab Emirates: Burj Khalifa illuminated in colours of the Tricolour on #IndiaIndependenceDay. Video: Consulate General of India, Dubai (@cgidubai) Watch 
 27
 United
@@ -291,12 +302,14 @@ person
 Read
 :
 http://toi.in/We7Fea/a24gk
-Organise a farewell match for @msdhoni on in Ranchi: Jharkhand CM to @BCCI READ: http://toi.in/WFC7Ea79/a24gk #MSDhoni #DhoniRetires #MSDhoniRetires #Cricket
-21
+Organise a farewell match on 5-10-20 for @msdhoni on in Ranchi: Jharkhand CM to @BCCI READ: http://toi.in/WFC7Ea79/a24gk #MSDhoni #DhoniRetires #MSDhoniRetires #Cricket
+23
 Organise
 a
 farewell
 match
+on
+CF:D:2020-10-05
 for
 @msdhoni
 on
@@ -315,7 +328,7 @@ http://toi.in/WFC7Ea79/a24gk
 #MSDhoniRetires
 #Cricket
 #DhoniRetires #MSDhoni #Dhoni Stats: @msdhoni in numbers Dhoni, who is considered to be one of the best finishers of the limited-overs game, has amassed 10773 runs including 73 fifties and 10 centuries at an average of 50.57 in the 350 ODIs. http://toi.in/9Im2QY/a24gk
-50
+48
 #DhoniRetires
 #MSDhoni
 #Dhoni
@@ -357,19 +370,20 @@ at
 an
 average
 of
-50
-.
-57
+50.57
 in
 the
 350
 ODIs
 .
 http://toi.in/9Im2QY/a24gk
-#MSDhoni #DhoniRetires #Dhoni Top five last over finishes by @msdhoni to win the match for India Read: http://toi.in/YJ7T3b/a24gk
-19
+#MSDhoni #DhoniRetires in July :-( #Dhoni Top five last over finishes by @msdhoni to win the match for India Read: http://toi.in/YJ7T3b/a24gk
+22
 #MSDhoni
 #DhoniRetires
+in
+CF:D:????-07
+:-(
 #Dhoni
 Top
 five
@@ -401,7 +415,7 @@ immense
 #MSDhoni
 Winning
 the
-2011
+CF:D:2011
 World
 Cup
 together
@@ -429,8 +443,8 @@ your
 innings
 :
 @sachin_rt
-I join millions of cricket fans across the globe to thank #MSDhoni for his unparalleled contributions. His cool temperament has turned several hot encounters in India’s favour. Under his captaincy India was crowned World Champions twice in different formats: @AmitShah
-43
+I join millions of cricket fans across the globe on 1.9.19 to thank #MSDhoni for his unparalleled contributions. His cool temperament has turned several hot encounters in India’s favour. Under his captaincy India was crowned World Champions twice in different formats: @AmitShah
+45
 I
 join
 millions
@@ -440,6 +454,8 @@ fans
 across
 the
 globe
+on
+CF:D:2019-09-01
 to
 thank
 #MSDhoni
@@ -527,12 +543,10 @@ India
 .
 "
 Bihar detects 3,536 more #COVID19 positive cases in the last 24 hours. Active cases in the state stand at 36,237: State Health Department #IndiaFightsCorona #CoronavirusOutbreak Live updates: http://toi.in/-w6Raa2
-35
+31
 Bihar
 detects
-3
-,
-536
+3,536
 more
 #COVID19
 positive
@@ -550,9 +564,7 @@ the
 state
 stand
 at
-36
-,
-237
+36,237
 :
 State
 Health
@@ -587,7 +599,7 @@ planned
 .
 Petrol
 bombs
-&amp
+&
 ;
 stones
 were
@@ -717,7 +729,7 @@ novel
 #coronavirus
 Read--http://toi.in/HEZaRa75/a24gk
 Covid-19: Madurai beggar donates Rs 90,000 to CM’s relief fund in nine instalments Earlier, he had donated money to government schools for purchase of tables, chairs and creating water facilities. http://toi.in/R5a5gb/a24gk via @TOICitiesNews
-41
+39
 Covid
 -
 19
@@ -726,9 +738,7 @@ Madurai
 beggar
 donates
 Rs
-90
-,
-000
+90,000
 to
 CM’s
 relief
@@ -825,7 +835,7 @@ NEET
 and
 JEE
 Main
-2020
+CF:D:2020
 :
 Supreme
 Court
@@ -891,7 +901,7 @@ http://toi.in/jZLa7Y27/a24gk
 #Dhoni
 #SachinTendulkar
 Winning
-2011
+CF:D:2011
 WC
 together
 with
@@ -922,23 +932,27 @@ career
 Read
 :
 http://toi.in/c-ZSTb/a24gk
-#Dhoni #DhoniRetires #Dhonifinishesoffinstyle ‘T20 was supposed to be @msdhoni’s swansong. It’ll be @IPL now’ READ http://toi.in/4fNRLb/a24gk
-17
+#Dhoni #DhoniRetires #Dhonifinishesoffinstyle 'T20 was supposed to be @msdhoni's swansong. It'll be @IPL now' READ http://toi.in/4fNRLb/a24gk
+21
 #Dhoni
 #DhoniRetires
 #Dhonifinishesoffinstyle
-‘T20
+'
+T20
 was
 supposed
 to
 be
-@msdhoni’s
+@msdhoni
+'s
 swansong
 .
-It’ll
+It
+will
 be
 @IPL
-now’
+now
+'
 READ
 http://toi.in/4fNRLb/a24gk
 Former India captain #MSDhoni has announced his retirement from international cricket. The boy from Ranchi, who made his ODI debut in 2004, changed the face of Indian cricket with his calm demeanour, sharp understanding of the game &amp; astute leadership qualities: BCCI
@@ -966,7 +980,7 @@ his
 ODI
 debut
 in
-2004
+CF:D:2004
 ,
 changed
 the
@@ -984,7 +998,7 @@ understanding
 of
 the
 game
-&amp
+&
 ;
 astute
 leadership
@@ -1014,7 +1028,7 @@ on
 ANI
 )
 Ladakh: Indo-Tibetan Border Police (ITBP) jawans celebrate #IndependenceDay on the banks of Pangong Tso, at an altitude of 14,000 feet. (Source: ITBP) #IndependenceDay #IndiaIndependenceDay LIVE updates: http://toi.in/5TaWqb
-40
+38
 Ladakh
 :
 Indo
@@ -1039,9 +1053,7 @@ at
 an
 altitude
 of
-14
-,
-000
+14,000
 feet
 .
 (
@@ -1056,7 +1068,7 @@ updates
 :
 http://toi.in/5TaWqb
 Bihar floods: Death toll mounts to 25; 77.77 lakh people affected Read--http://toi.in/hE--CY/a24gk
-16
+14
 Bihar
 floods
 :
@@ -1066,9 +1078,7 @@ mounts
 to
 25
 ;
-77
-.
-77
+77.77
 lakh
 people
 affected
@@ -1089,16 +1099,12 @@ of
 ANI
 )
 110 people dead and 56,89,584 affected due to #floods across 30 districts of Assam: State Disaster Management Authority (SDMA)
-26
+22
 110
 people
 dead
 and
-56
-,
-89
-,
-584
+56,89,584
 affected
 due
 to
@@ -1159,7 +1165,7 @@ talking
 to
 them
 regularly
-&amp
+&
 ;
 trying
 to
@@ -1197,7 +1203,7 @@ growth
 hitting
 lowest
 since
-1947
+CF:D:1947
 ,
 pitches
 for
@@ -1206,8 +1212,8 @@ at
 full
 steam
 Read--http://toi.in/nmio2Y/a24gk
-'Need to increase Covid-19 testing in 10 most-affected states,' PM @narendramodi tells CMs http://toi.in/d4IPJY7/a24gk
-21
+'Need to increase Covid-19 testing by September'2020 in 10 most-affected states,' PM @narendramodi tells CMs http://toi.in/d4IPJY7/a24gk
+23
 '
 Need
 to
@@ -1216,6 +1222,8 @@ Covid
 -
 19
 testing
+by
+CF:D:2020-09
 in
 10
 most
@@ -1301,11 +1309,12 @@ the
 age
 of
 90
-TOI Quick Edit | Facebook refused to remove anti-Muslim posts to not upset Modi govt: WSJ READ: https://bit.ly/2EabQ8F
-22
+TOI Quick Edit December 2019 | Facebook refused to remove anti-Muslim posts to not upset Modi govt: WSJ READ: https://bit.ly/2EabQ8F
+23
 TOI
 Quick
 Edit
+CF:D:2019-12
 |
 Facebook
 refused
@@ -1370,15 +1379,13 @@ Read
 :
 http://toi.in/bG97NZ/a24gk
 India's Covid deaths cross 50,000; highest spike of 67k+ cases on Saturday http://toi.in/Xt86va/a24gk
-17
+15
 India
 's
 Covid
 deaths
 cross
-50
-,
-000
+50,000
 ;
 highest
 spike
@@ -1472,7 +1479,8 @@ retirement
 Read
 :
 http://toi.in/e9Bmtb/a24gk
-PM @narendramodi’s 7th #IndependenceDay speech is his third longest Till 2015, the longest speech ever given by an Indian PM was in 1947, when Pandit Jawaharlal Nehru spoke for 72 minutes. Read: http://toi.in/tTIooY6337
+PM @narendramodi’s 7th #IndependenceDay speech is his third longest Till 2015, the longest speech ever given by an Indian PM was in 1947, when Pandit Jawaharlal Nehru spoke for 72 minutes. Read: http://toi.in/tTIooY63
+37
 PM
 @narendramodi’s
 7th
@@ -1483,7 +1491,7 @@ his
 third
 longest
 Till
-2015
+CF:D:2015
 ,
 the
 longest
@@ -1496,7 +1504,7 @@ Indian
 PM
 was
 in
-1947
+CF:D:1947
 ,
 when
 Pandit
